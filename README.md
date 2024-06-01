@@ -1,3 +1,7 @@
+<p align="center">
+    <img width="450" src="image/simulacao.png"> 
+</p>
+
 # Projeto artigo técnico gerado por I.A.s
 
 
