@@ -5,7 +5,7 @@
 # Projeto artigo técnico gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui estudante na plataforma da [DIO](https://dio.me).
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
