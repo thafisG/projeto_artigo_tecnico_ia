@@ -1,0 +1,1 @@
+# projeto_artigo_tecnico_ia
